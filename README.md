@@ -1,1 +1,3 @@
 # PRODIGY_WD_01
+
+#Responsive_Landing_Page This is my first project for my internship at Prodigy Infotech, where I created a responsive landing page using HTML, CSS, and JavaScript. For this project, I chose to design a responsive landing page showcasing the Seven Wonders of the World. The landing page features a responsive navbar that converts into a hamburger sign on smaller screens. When users click the sign, the navbar opens fully responsive, ensuring an optimal viewing experience across all devices. This project allowed me to enhance my skills in front-end development and responsive design. 
